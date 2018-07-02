@@ -700,4 +700,4 @@
         }
     }
 
-}(window, document, MediumEditor));
+}(window, document, typeof require === 'function' ? require('medium-editor') : MediumEditor));
