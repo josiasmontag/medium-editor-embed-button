@@ -166,7 +166,7 @@
         "name": "embedButton",
         "action": "embedAction",
         "contentDefault": "E",
-        "contentFA": '<i class="fa fa-youtube"></i>',
+        "contentFA": '<i class="fab fa-youtube"></i>',
         "aria": "Embed media",
 
         "defaults": {
